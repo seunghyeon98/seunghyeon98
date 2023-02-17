@@ -8,12 +8,13 @@
 
  </div>
  
-### 반갑습니다  👋
+###  👋 안녕하세요
 
 
 ### Interests
   * 🎁 Recommender Systems
   * 📋 Natual Language Processing
-  * 📈 Marketing Optimization
+  * 🔎 Opinion Mining
+  
 
 
