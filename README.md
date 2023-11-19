@@ -34,9 +34,7 @@ AI, 데이터 분석등 다양한 분야에 호기심과 관심을 갖고 계속
 **VOD 개인화 추천 시스템 프로젝트에 참여하고 있습니다.**
 
 
-DX DATA School Info:
-
- http://lghellovisiondataschool.rapa.or.kr/ft/main.do
+DX DATA School Info: http://lghellovisiondataschool.rapa.or.kr/ft/main.do
 
 ### Interests
   * 🎁 Recommender Systems
@@ -48,7 +46,8 @@ DX DATA School Info:
 * 2023 천안시 데이터 기반 시각화 아이디어 공모전 [본선진출]
   
   팀 주제 : 천안시 공공 자전거 설치 장소 탐색
-  
+
+  PDF : https://github.com/seunghyeon98/Project_Cheonan-city/blob/main/%EC%B2%9C%EC%B2%9C%ED%9E%88_%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C_PDF.pdf
 
 * 한국정보과학회 - S-Bert 기반 음식 및 식재료 임베딩 및 클러스터링을 활용한 음식 다양성 추천 시스템
   
