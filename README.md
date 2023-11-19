@@ -45,6 +45,10 @@ DX DATA School Info:
 
 
 ### Projects
+* 2023 천안시 데이터 기반 시각화 아이디어 공모전 [본선진출]
+  팀 주제 : 천안시 공공 자전거 설치 장소 탐색
+  
+
 * 한국정보과학회 - S-Bert 기반 음식 및 식재료 임베딩 및 클러스터링을 활용한 음식 다양성 추천 시스템
   
   논문 : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488522
@@ -57,7 +61,7 @@ DX DATA School Info:
   
   Git : https://github.com/seunghyeon98/LDA-
 
-* 2023 천안시 데이터 기반 시각화 아이디어 공모전 [본선진출]
+
   
 
 
