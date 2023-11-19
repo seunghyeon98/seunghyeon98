@@ -25,6 +25,8 @@ AI, 데이터 분석등 다양한 분야에 호기심과 관심을 갖고 계속
   논문: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229799
   
   Git : https://github.com/seunghyeon98/LDA-
+
+* 2023 천안시 데이터 기반 시각화 아이디어 공모전 [본선진출]
   
 
 ### Interests
