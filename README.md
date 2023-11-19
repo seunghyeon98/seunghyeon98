@@ -27,10 +27,16 @@ AI, 데이터 분석등 다양한 분야에 호기심과 관심을 갖고 계속
 
 현재는 다양한 분야 중 추천 시스템 분야에 많은 관심을 갖고 있습니다.
 
-현재는 LG HelloVision - DX DATA SCHOOL 6개월의 데이터 분석과정을 통해 AWS Service 및 벡엔드 지식을 배우고 있으며,
+### NOW
+
+2023/06/27 기간 부터 LG HelloVision - DX DATA SCHOOL 6개월의 데이터 분석과정을 통해 AWS Service 및 벡엔드 지식을 배우고 있으며,
 
 **VOD 개인화 추천 시스템 프로젝트에 참여하고 있습니다.**
 
+
+DX DATA School Info:
+
+ http://lghellovisiondataschool.rapa.or.kr/ft/main.do
 
 ### Interests
   * 🎁 Recommender Systems
