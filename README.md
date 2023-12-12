@@ -1,11 +1,12 @@
+<div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Havi&fontSize=90" />
-
+</div>
 
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghyeon98&count_bg=%238D3DC8&title_bg=%23555555&icon=googlecalendar.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>💻 STACKS</h1></div>
 
  <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=black">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
@@ -30,7 +31,8 @@
  <br>
 
 </div>
- 
+<br>
+
 ##  👋 안녕하세요
 AI, 데이터 분석등 다양한 분야에 호기심과 관심을 갖고 계속해서 생각하고 탐구하며 성장하고 있는 데이터 분석가 입니다.
 
