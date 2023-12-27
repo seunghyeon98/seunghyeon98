@@ -58,6 +58,7 @@ DX DATA School Info: http://lghellovisiondataschool.rapa.or.kr/ft/main.do
 ### Projects
 
 * VOD 개인화 추천 시스템 프로젝트
+  (2023.11~2023.12.29)
 
   프로젝트 개요 : Prompt Engineerging을 통한 VOD 개인화 추천 프로젝트
   
@@ -66,22 +67,29 @@ DX DATA School Info: http://lghellovisiondataschool.rapa.or.kr/ft/main.do
   
 
 * 2023 천안시 데이터 기반 시각화 아이디어 공모전 [본선진출]
+   (2023.08~2023.8.30)
   
   팀 주제 : 천안시 공공 자전거 설치 장소 탐색
 
   PDF : https://github.com/seunghyeon98/Project_Cheonan-city/blob/main/%EC%B2%9C%EC%B2%9C%ED%9E%88_%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C_PDF.pdf
 
 * 한국정보과학회 - S-Bert 기반 음식 및 식재료 임베딩 및 클러스터링을 활용한 음식 다양성 추천 시스템
+   (2023.03~2023.05)
   
   논문 : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488522
   
   Git  : https://github.com/seunghyeon98/S-bert- 
 
 * HCI 투고 - LDA를 활용한 부정 서비스 평가 리뷰 분석
+   (2022.09~2022.11)
   
   논문: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229799
   
   Git : https://github.com/seunghyeon98/LDA-
+
+
+* 인공지능(AI)을 활용한 레시피 추천 개발
+   (2022.09~2022.11)  
 
 
   
