@@ -89,7 +89,9 @@ DX DATA School Info: http://lghellovisiondataschool.rapa.or.kr/ft/main.do
 
 
 * 인공지능(AI)을 활용한 레시피 추천 개발
-   (2022.09~2022.11)  
+   (2022.09~2022.11)
+
+  [1 st]
 
 
   
