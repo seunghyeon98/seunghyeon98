@@ -40,7 +40,9 @@ AI, 데이터 분석등 다양한 분야에 호기심과 관심을 갖고 계속
 
 ### NOW
 
-2023/06/27 기간 부터 LG HelloVision - DX DATA SCHOOL 6개월의 데이터 분석과정을 통해 AWS Service 및 벡엔드 지식을 배우고 있으며,
+2023/06/27 기간 부터 LG HelloVision - DX DATA SCHOOL 6개월의 데이터 분석과정을 통해 AWS Service 및 벡엔드 지식을 배웠습니다.
+
+
 
 **VOD 개인화 추천 시스템 프로젝트에 참여하고 있습니다.**
 
@@ -54,6 +56,15 @@ DX DATA School Info: http://lghellovisiondataschool.rapa.or.kr/ft/main.do
 
 
 ### Projects
+
+* VOD 개인화 추천 시스템 프로젝트
+
+  프로젝트 개요 : Prompt Engineerging을 통한 VOD 개인화 추천 프로젝트
+  
+  팀 Repo : https://github.com/LV-3
+
+  
+
 * 2023 천안시 데이터 기반 시각화 아이디어 공모전 [본선진출]
   
   팀 주제 : 천안시 공공 자전거 설치 장소 탐색
