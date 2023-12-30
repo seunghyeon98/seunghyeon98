@@ -38,16 +38,6 @@ AI, 데이터 분석등 다양한 분야에 호기심과 관심을 갖고 계속
 
 현재는 다양한 분야 중 추천 시스템 분야에 많은 관심을 갖고 있습니다.
 
-### NOW
-
-2023/06/27 기간 부터 LG HelloVision - DX DATA SCHOOL 6개월의 데이터 분석과정을 통해 AWS Service 및 벡엔드 지식을 배웠습니다.
-
-
-
-**VOD 개인화 추천 시스템 프로젝트에 참여하고 있습니다.**
-
-
-DX DATA School Info: http://lghellovisiondataschool.rapa.or.kr/ft/main.do
 
 ### Interests
   * 🎁 Recommender Systems
@@ -57,12 +47,15 @@ DX DATA School Info: http://lghellovisiondataschool.rapa.or.kr/ft/main.do
 
 ### Projects
 
-* VOD 개인화 추천 시스템 프로젝트
+* VOD 개인화 추천 시스템 프로젝트 
   (2023.11~2023.12.29)
 
   프로젝트 개요 : Prompt Engineerging을 통한 VOD 개인화 추천 프로젝트
   
   팀 Repo : https://github.com/LV-3
+  포트폴리오 pdf :  https://drive.google.com/file/d/1nUNVmkJABhRnrfsFfdbjv6YbqwQ8KkE1/view?usp=sharing
+
+  [대상]
 
   
 
@@ -100,6 +93,8 @@ DX DATA School Info: http://lghellovisiondataschool.rapa.or.kr/ft/main.do
 ### Activites
  * LG HelloVision - DX DATA SCHOOL
    (2023/06/27 ~ 2023/12/29)
+   
+   DX DATA School Info: http://lghellovisiondataschool.rapa.or.kr/ft/main.do
    
    
    
