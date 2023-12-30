@@ -53,6 +53,7 @@ AI, 데이터 분석등 다양한 분야에 호기심과 관심을 갖고 계속
   프로젝트 개요 : Prompt Engineerging을 통한 VOD 개인화 추천 프로젝트
   
   팀 Repo : https://github.com/LV-3
+  
   포트폴리오 pdf :  https://drive.google.com/file/d/1nUNVmkJABhRnrfsFfdbjv6YbqwQ8KkE1/view?usp=sharing
 
   [대상]
