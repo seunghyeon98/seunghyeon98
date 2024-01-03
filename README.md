@@ -50,8 +50,8 @@ AI, 데이터 분석등 다양한 분야에 호기심과 관심을 갖고 계속
 
 ### Projects
 
-* VOD 개인화 추천 시스템 프로젝트 
-  (2023.11~2023.12.29)
+* VOD 개인화 추천 시스템 프로젝트 [대상]
+  (2023.10~2023.12.29)
 
   프로젝트 개요 : Prompt Engineerging을 통한 VOD 개인화 추천 프로젝트
   
@@ -59,7 +59,7 @@ AI, 데이터 분석등 다양한 분야에 호기심과 관심을 갖고 계속
   
   포트폴리오 pdf :  https://drive.google.com/file/d/1nUNVmkJABhRnrfsFfdbjv6YbqwQ8KkE1/view?usp=sharing
 
-  [대상]
+
 
   
 
@@ -85,10 +85,10 @@ AI, 데이터 분석등 다양한 분야에 호기심과 관심을 갖고 계속
   Git : https://github.com/seunghyeon98/LDA-
 
 
-* 인공지능(AI)을 활용한 레시피 추천 개발
+* 인공지능(AI)을 활용한 레시피 추천 개발 [1 st]
    (2022.09~2022.11)
 
-  [1 st]
+
 
 
   
@@ -104,6 +104,8 @@ AI, 데이터 분석등 다양한 분야에 호기심과 관심을 갖고 계속
    
  * FNAI Lab
    (2022/09/01 ~ 2023/06/26)
+
+   FNAI Lab Info: https://sites.google.com/view/fnailab
 
   
 
