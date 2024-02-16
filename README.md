@@ -6,6 +6,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghyeon98&count_bg=%238D3DC8&title_bg=%23555555&icon=googlecalendar.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
+<!--
+
 <div align=center><h1>💻 STACKS</h1></div>
 
  <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=black">
@@ -34,6 +36,9 @@
  <br>
 
 </div>
+
+-->
+
 <br>
 
 ##  👋 안녕하세요
